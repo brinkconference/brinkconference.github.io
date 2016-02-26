@@ -1,0 +1,7 @@
+# Site settings
+title: The Brink 
+description: Coming Soon...
+keywords: Cleveland, Tech, Conference 
+author: ""
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
